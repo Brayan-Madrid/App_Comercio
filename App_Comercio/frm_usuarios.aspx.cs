@@ -29,6 +29,7 @@ namespace App_Comercio
             txt_correo.Text = "";
             txt_direccion.Text = "";
             txt_codigo.Focus(); //ubicar el cursor de escritura
+
         }
 
         protected void btn_consultar_Click(object sender, EventArgs e)

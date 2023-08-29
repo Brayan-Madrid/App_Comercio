@@ -1,9 +1,9 @@
-﻿.div{
-    border:solid 1px;
-    border-radius:6px;
-    width:600px;
-    height:900px;
-    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+﻿.div {
+    border: solid 1px;
+    border-radius: 6px;
+    width: 600px;
+    height: 600px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 .cajas {
     margin-right: 2px;
